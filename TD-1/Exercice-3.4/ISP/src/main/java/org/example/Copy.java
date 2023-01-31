@@ -1,2 +1,7 @@
-package org.example;public interface Copy {
+package org.example;
+
+public interface Copy {
+
+  void copy();
+
 }

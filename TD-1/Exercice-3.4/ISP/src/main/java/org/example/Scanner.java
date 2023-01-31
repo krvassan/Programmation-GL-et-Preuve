@@ -1,2 +1,7 @@
-package org.example;public interface Scanner {
+package org.example;
+
+public interface Scanner {
+
+  void scan();
+
 }
